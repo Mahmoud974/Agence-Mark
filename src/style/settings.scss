@@ -1,0 +1,19 @@
+$orange: #f98203;
+
+%flexbox
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+small{
+    color: $orange
+}
+
+.fas
+{
+    color: $orange;
+    
+}
